@@ -89,20 +89,6 @@ The system manages grades for the following subjects:
 
 ***
 
-## Project Structure
-
-```text
-Student-Grade-Management-System/
-│
-├── Student_Grade_Management_py.py
-├── Student_Grade_Management_gui.py
-├── students.csv
-├── Screenshots/
-└── README.md
-```
-
-***
-
 ## Screenshots
 
 The repository can include screenshots demonstrating:
