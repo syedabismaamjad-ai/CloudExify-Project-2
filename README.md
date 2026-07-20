@@ -1,4 +1,3 @@
-Bilkul. Neeche **sources, references aur links remove karke** clean version diya gaya hai:
 
 #  Student Grade Management System
 
