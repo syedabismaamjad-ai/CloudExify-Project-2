@@ -1,6 +1,6 @@
 Bilkul. Neeche **sources, references aur links remove karke** clean version diya gaya hai:
 
-# 🎓 Student Grade Management System
+#  Student Grade Management System
 
 ## Project Overview
 
@@ -138,8 +138,3 @@ The **Student Grade Management System** successfully provides a practical soluti
 
 ***
 
-## 👨‍💻 Author
-
-**SYED HAREES AMJAD**
-
-**CloudExify Python Internship Program**
